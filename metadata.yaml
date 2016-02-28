@@ -1,0 +1,23 @@
+_repo: See-America-First_3547
+creator:
+  authors:
+  - agent_name: Hiestand, Orville O.
+    gutenberg_agent_id: '1225'
+    url: http://www.gutenberg.org/2009/agents/1225
+  - agent_name: Herr, Charles J.
+    gutenberg_agent_id: '41654'
+    url: http://www.gutenberg.org/2009/agents/41654
+description: ''
+gutenberg_issued: '2002-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3547'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcc 'E151'
+title: See America First
+url: http://www.gutenberg.org/ebooks/3547
