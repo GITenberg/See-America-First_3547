@@ -1,5 +1,8 @@
 _repo: See-America-First_3547
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Hiestand, Orville O.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '41654'
     url: http://www.gutenberg.org/2009/agents/41654
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3547#See-America-First
 gutenberg_issued: '2002-11-01'
 gutenberg_type: Text
 identifiers:
